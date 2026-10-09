@@ -8,6 +8,9 @@ public class Demo1Test {
 	public void addTest()
 	{
 		System.out.println("add");
+		System.out.println("Mul");
 	}
+	
+		
 
 }
